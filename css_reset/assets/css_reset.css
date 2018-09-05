@@ -1,0 +1,18 @@
+header, aside, h2, ul, li, section, h1, figure, figcaption, p, ol, form, label, input, footer {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+body {
+  line-height: 1.5;
+}
+
+img {
+  width: 100%;
+}
